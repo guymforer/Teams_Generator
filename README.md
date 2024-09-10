@@ -5,3 +5,4 @@ The idea for the app was born from the fact that every time my friends and I had
 
 The application works like this - all the participants who registered for the game will rate the other participants (via Google Forms), the results of the survey will be automatically transferred to google sheets created in advance, where the rating of each participant will be calculated - according to the average of the ratings he received). 
 After all the participants have finished ranking, the application connected to the Sheet will divide the groups (according to the Input of the number of groups).# Teams_Generator
+# Teams_Generator
