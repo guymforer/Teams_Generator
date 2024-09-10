@@ -1,0 +1,12 @@
+David,5
+Butbul,8
+Barzi,8
+Avichai,4
+Bar,3
+Gueta,9
+Yuval,7
+Dor,9
+Eden,6
+Lidor,8
+Ofek,6
+Benaim,5
